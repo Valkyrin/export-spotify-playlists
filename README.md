@@ -1,3 +1,7 @@
+https://stackoverflow.com/questions/16373425/add-text-on-image-using-pil
+
+https://code-maven.com/create-images-with-python-pil-pillow
+
 # Export Spotify Playlists
 Export Spotify playlist data to either Text or CSV files using Spotipy and the WebAPI.
 
